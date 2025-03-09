@@ -1,10 +1,10 @@
-package org.example.eurekasevice;
+package org.example.productclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaSeviceApplicationTests
+class ProductClientApplicationTests
 {
 
     @Test

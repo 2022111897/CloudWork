@@ -1,15 +1,15 @@
-package org.example.eurekasevice;
+package org.example.productclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EurekaSeviceApplication
+public class ProductClientApplication
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(EurekaSeviceApplication.class, args);
+        SpringApplication.run(ProductClientApplication.class, args);
     }
 
 }
